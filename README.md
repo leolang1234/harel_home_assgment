@@ -3,4 +3,4 @@
 add the chrome driver file to location :
 harel_home_assgment/src/test/resources/executables/
 
-run 
+run testng.xml file or test/hareltest.class
